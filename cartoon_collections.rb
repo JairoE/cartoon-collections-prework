@@ -3,8 +3,7 @@ def roll_call_dwarves(array)# code an argument here
     array[i] = "#{i}. #{name}"
   end
 
-  puts array
-
+ puts array.join("")
 end
 
 def summon_captain_planet(array)# code an argument here
