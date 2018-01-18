@@ -3,7 +3,7 @@ def roll_call_dwarves(array)# code an argument here
     array[i] = "#{i}. #{name}"
   end
 
-  array
+  puts array
 
 end
 
